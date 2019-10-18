@@ -7,3 +7,6 @@
 2. Some crucial services monitoring.
 3. Some business cases monitoring.
 4. Beautyfied logs processing with ability to easy find, filter and anylize, also grouped for each user session. Of course unified logs from all similar processes.
+5. Error monitoring tools, (rollbar, sentry)
+6. Smart request/ code usage logs with analytics ( new_relic, scoutapp, etc.)
+7. Backup with regular backup recovery practice.
