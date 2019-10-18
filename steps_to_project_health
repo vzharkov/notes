@@ -1,0 +1,9 @@
+## Some basic principles to take more control for project life
+
+1. CI pipline with code cops:
+  - code style linter (rubycop, jslint, cslint)
+  - test coverage regression
+  - launch tests
+2. Some crucial services monitoring.
+3. Some business cases monitoring.
+4. Beautyfied logs processing with ability to easy find, filter and anylize, also grouped for each user session. Of course unified logs from all similar processes.
